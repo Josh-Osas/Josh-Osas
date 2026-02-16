@@ -20,7 +20,7 @@ I’m **Joshua**, a Data Analyst and enthusiast for all things data. I specialis
 
 
 ## Some projects I’ve worked on:  
-- **Educational Data Dashboard** – Using Tableau to visualise student performance and outcomes  
+- **University Admission Data Analysis**: (https://github.com/Josh-Osas/University-Admission-Data-Analysis)  
 
 
 ## Fun Facts:  
