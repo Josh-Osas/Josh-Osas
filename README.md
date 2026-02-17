@@ -22,6 +22,7 @@ I’m **Joshua**, a Data Analyst and enthusiast for all things data. I specialis
 ## Some projects I’ve worked on:  
 - **University Admission Data Analysis using Python**: (https://github.com/Josh-Osas/University-Admission-Data-Analysis)
 - **Student Academic Performance Analysis using SQL**: (https://github.com/Josh-Osas/Student-Performance-Analysis-using-SQL)
+- **Student Engagement Analysis**: (https://github.com/Josh-Osas/Student-Engagement-Dashboard-Analysis)
 
 
 ## Fun Facts:  
