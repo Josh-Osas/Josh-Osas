@@ -19,7 +19,8 @@ I’m **Joshua**, a Data Analyst and enthusiast for all things data. I specialis
 - And more!
 
 
-## Some projects I’ve worked on:  
+## Some projects I’ve worked on: 
+- [**School Database Project built with SQL and Python (Jupyter Notebook)**](https://github.com/Josh-Osas/School-Database-Project-built-with-SQL-and-Python-Jupyter-Notebook-)
 - [**End-to-End Business Performance Analytics using Python & Power BI**](https://github.com/Josh-Osas/End-to-End-Business-Performance-Analytics-Dashboard)
 - [**University Admission Data Analysis using Python**](https://github.com/Josh-Osas/University-Admission-Data-Analysis)
 - [**Student Academic Performance Analysis using SQL**](https://github.com/Josh-Osas/Student-Performance-Analysis-using-SQL)
